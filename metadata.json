@@ -1,0 +1,5 @@
+{
+  "name": "Neon Physics Sandbox",
+  "description": "A high-performance 2D physics sandbox with 1000 glowing neon particles and interactive forces.",
+  "requestFramePermissions": []
+}
